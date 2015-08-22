@@ -1,4 +1,5 @@
-# has to be run as "python exercise_1_4.py"
+#!/usr/bin/env python
 
-print "Hello world"
+1 + 2 * 4
+print 1 + 2 * 4
 
